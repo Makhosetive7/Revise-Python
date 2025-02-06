@@ -1,14 +1,16 @@
+# Student Grade Calculator
 
- # Student Grade Calculator 
+# **Concepts:**
 
-# **Concepts:** 
-- if-else 
-- loops 
+- if-else
+- loops
 - dictionaries
 
- # **Task:**
+# **Task:**
+
 - Take 5 student names and their marks.
 - Store them in a dictionary ({"Alice": 85, "Bob": 90, ...})
+
 # **Print:**
 
 - Each student’s grade (A, B, C, etc.).
@@ -16,8 +18,8 @@
 
 ```python
 Example Output:
-Alice: B 
-Bob: A 
-Highest: Bob (90) 
-Lowest: John (67) 
+Alice: B
+Bob: A
+Highest: Bob (90)
+Lowest: John (67)
 ```
